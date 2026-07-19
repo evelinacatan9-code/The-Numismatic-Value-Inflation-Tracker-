@@ -27,8 +27,8 @@ To accurately evaluate historical currency values across centuries, this tracker
 *   **What It Proves:** Demonstrates an understanding of labor economics, productivity shifts over time, and the fundamental concept that human time is an unchanging economic constant.
 
 ## 3. System Architecture
-Language: Python 3.x
-Core Libraries: Pandas (Data structuring), Requests (Live API interaction)
-Live Data Sourcing: Financial Asset APIs for spot gold/silver prices
-
+* **Language:** Python 3.x
+* **Core Libraries:** Pandas (Data structuring), Requests (Live API interaction)
+* **Live Data Sourcing:** Financial Asset APIs for spot gold/silver prices
+  
 ## 4. How to View the Project  The operational code logic can be found in `tracker.py`.
