@@ -10,20 +10,21 @@ My project solves the problem of distorting historical currency values by stripp
 
 To accurately evaluate historical currency values across centuries, this tracker analyzes any given monetary asset through three distinct theoretical frameworks simultaneously.
 
-- Intrinsic Metal Value
-**How It Works:** Isolates the exact physical mass of precious metal (gold or silver) within a historical coin and multiplies it by the asset's current, real-time market value. This bypasses centuries of paper-money inflation to calculate the raw commodity wealth of the currency.
-**What It Proves:** Demonstrates a clear understanding of monetary regimes, commodity anchors, and how to integrate dynamic market data into complex economic models.
+### 1. Intrinsic Metal Value
+*   **How It Works:** Isolates the exact physical mass of precious metal (gold or silver) within a historical coin and multiplies it by the asset's current, real-time market value. This bypasses centuries of paper-money inflation to calculate the raw commodity wealth of the currency.
+*   **What It Proves:** Demonstrates a clear understanding of monetary regimes, commodity anchors, and how to integrate dynamic market data into complex economic models.
 
+---
 
--  Subsistence Purchasing Power
-**How It Works:** Measures value based on the cost of absolute baseline survival essentials (such as a standard measure of wheat or grain) across different eras. Because ancient societies spent the majority of their income on food, this acts as an accurate proxy for tracking real inflation.
-**What It Proves:** Demonstrates mastery of the vital distinction between real vs. nominal variables, showing how to use agricultural baselines to evaluate historical purchasing power.
+### 2. Subsistence Purchasing Power
+*   **How It Works:** Measures value based on the cost of absolute baseline survival essentials (such as a standard measure of wheat or grain) across different eras. Because ancient societies spent the majority of their income on food, this acts as an accurate proxy for tracking real inflation.
+*   **What It Proves:** Demonstrates mastery of the vital distinction between real vs. nominal variables, showing how to use agricultural baselines to evaluate historical purchasing power.
 
+---
 
-- Labor-Value Equivalence
-**How It Works:** Calculates the opportunity cost of human time by mapping how many hours or days an average worker (such as an unskilled laborer or soldier) had to work to earn that unit of currency, comparing that effort directly to modern labor compensation.
-**What It Proves:** Demonstrates an understanding of labor economics, productivity shifts over time, and the fundamental concept that human time is an unchanging economic constant.
-
+### 3. Labor-Value Equivalence
+*   **How It Works:** Calculates the opportunity cost of human time by mapping how many hours or days an average worker (such as an unskilled laborer or soldier) had to work to earn that unit of currency, comparing that effort directly to modern labor compensation.
+*   **What It Proves:** Demonstrates an understanding of labor economics, productivity shifts over time, and the fundamental concept that human time is an unchanging economic constant.
 
 ## 3. System Architecture
 Language: Python 3.x
